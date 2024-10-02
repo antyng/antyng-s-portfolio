@@ -41,3 +41,21 @@ Program content
   chances to try and win this game.
 
   File Name: hangman.py
+
+- Hailstone sequence
+
+  This program implements a console program that simulates
+  the execution of the Hailstone sequence, defined by Douglas
+  Hofstadter.
+
+  File Name: hailstone.py
+
+- Prime Checker
+
+  This program asks our user for input and checks if the input is a
+  prime number or not. First, ” Welcome to the prime checker” will be printed on Console.
+  And the program will continually ask the user to enter an integer 
+  that is greater than 1 and checks if it is a prime number.
+  The program ends when the user enter the EXIT number.
+
+  File Name: prime_checker.py
