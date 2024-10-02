@@ -59,3 +59,10 @@ Program content
   The program ends when the user enter the EXIT number.
 
   File Name: prime_checker.py
+
+- Quadratic Solver
+
+  This program should implement a console program
+  that asks 3 inputs (a, b, and c)
+  from users to compute the roots of equation:
+  ax^2 + bx + c = 0
